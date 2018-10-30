@@ -1,2 +1,3 @@
 # Datalogi-101
-hej mit navn er Thor, jeg læser datalogi og kan godt lide R.
+Det er her vi arbejder p.t. i PoP. 
+Vi kan ligeså godt komme igang med at bruge GitHub :-)))) .
