@@ -1,2 +1,2 @@
 # Datalogi-101
-hej
+hej mit navn er Thor, jeg læser datalogi og kan godt lide R.
